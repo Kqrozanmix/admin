@@ -7,7 +7,7 @@ import { IoIosArrowBack } from "react-icons/io";
 import { BsCartCheck } from "react-icons/bs";
 import { useMediaQuery } from "react-responsive";
 import { MdMenu } from "react-icons/md";
-import Logoimage from "../image/logoddyb.png";
+import Logoimage from "../image/logo.png";
 import {
   FiShoppingBag,
   FiInfo,
